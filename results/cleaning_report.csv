@@ -1,0 +1,19 @@
+item,value
+rows_initial,41718
+invalid_dates,0
+date_min,2016-11-25
+date_max,2026-04-06
+pm25_missing,0
+pm25_sentinel_low (<= 0),727
+pm25_sentinel_high (>= 500),8
+rows_removed_invalid_pm25,735
+duplicates_all_columns,0
+"duplicates_key (date, lat, lon, id)",0
+n_station_ids,95
+n_sensor_names,91
+ids_with_several_names,0
+ids_with_several_coords,0
+records_per_station_min,4
+records_per_station_median,442.0
+records_per_station_max,1042
+rows_final,40983
